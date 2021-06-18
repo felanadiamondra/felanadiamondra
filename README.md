@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felanadiamondra
-- 👀 I’m interested in web development, artificial intelligence and robotic process automation and blockchain development 
+- 👀 I’m interested in web development, artificial intelligence, robotic process automation and blockchain development 
 - 🌱 I’m currently learning on mobile development and working on some AI project
 
 <!---
